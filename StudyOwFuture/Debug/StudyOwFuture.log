@@ -1,0 +1,17 @@
+﻿Build started 2/3/2016 2:40:05 AM.
+     1>Project "E:\Plot\StudyOwFuture\StudyOwFuture\StudyOwFuture.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt File.cpp Lock.cpp owfuture.cpp stdafx.cpp Str.cpp
+         Str.cpp
+         stdafx.cpp
+     1>e:\plot\studyowfuture\owchart\include\base\cstr.h(27): error C2440: 'default argument' : cannot convert from 'const wchar_t [1]' to 'LPCTSTR'
+                 Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+         owfuture.cpp
+         Lock.cpp
+         File.cpp
+         Generating Code...
+     1>Done Building Project "E:\Plot\StudyOwFuture\StudyOwFuture\StudyOwFuture.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.90
